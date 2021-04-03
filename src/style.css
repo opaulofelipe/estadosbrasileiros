@@ -1,0 +1,24 @@
+html{
+  font-family: Lato, monospace;
+  height: 100%;
+  background-image: url('https://cdn11.bigcommerce.com/s-yqkp4d/images/stencil/2048x2048/products/5284/7427/bw_mural__05436.1453158303.jpg?c=2');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; 
+}
+
+h1{
+  font-size: 65px;
+  color: #ffffff;
+  text-align: center;
+  
+}
+
+h2{
+  background-color: #000000;
+  font-family: lato, monospace;
+  font-size: 45px;
+  color: #ffffff;
+  text-align: center;
+  }
